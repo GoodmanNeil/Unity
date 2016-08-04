@@ -1,0 +1,27 @@
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: Mobile Intel(R) 965 Express Chipset Family (Microsoft Corporation - WDDM 1.1) (ID=0x2a02)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Goodm\OneDrive\Documents\Unity\Roll A Ball\Builds\Roll A Ball_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Goodm\OneDrive\Documents\Unity\Roll A Ball\Builds\Roll A Ball_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Goodm\OneDrive\Documents\Unity\Roll A Ball\Builds\Roll A Ball_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Goodm\OneDrive\Documents\Unity\Roll A Ball\Builds\Roll A Ball_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Goodm\OneDrive\Documents\Unity\Roll A Ball\Builds\Roll A Ball_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Goodm\OneDrive\Documents\Unity\Roll A Ball\Builds\Roll A Ball_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Goodm\OneDrive\Documents\Unity\Roll A Ball\Builds\Roll A Ball_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Goodm\OneDrive\Documents\Unity\Roll A Ball\Builds\Roll A Ball_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.128 seconds
+Platform assembly: C:\Users\Goodm\OneDrive\Documents\Unity\Roll A Ball\Builds\Roll A Ball_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Goodm\OneDrive\Documents\Unity\Roll A Ball\Builds\Roll A Ball_Data\Managed\System.dll (this message is harmless)
+desktop: 1280x800 60Hz; virtual: 1280x800 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.315871 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1958 -> priority: 1 
